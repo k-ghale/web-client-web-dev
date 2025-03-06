@@ -33,3 +33,15 @@ imgCaptions[11]="Longs Peak Trail (Rocky Mountain National Park)";
 
 // Count of images in the slideshow
 let imgCount = imgFiles.length;
+
+function emptyForm(){
+
+            document.getElementById("firstname2").value = " ";
+            document.getElementById("lastname2").value = " ";
+            document.getElementById("address2").value = " ";
+            document.getElementById("gender2").value = " ";
+            document.getElementById("phone2").value = "";
+            document.getElementById("year2").value = "2015";
+ 
+}
+

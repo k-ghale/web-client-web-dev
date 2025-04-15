@@ -1,0 +1,22 @@
+#gallery-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#gallery-image {
+    width: 500px;
+    height: auto;
+    max-width: 80%;
+    height: auto;
+    display: none;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+
